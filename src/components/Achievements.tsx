@@ -4,9 +4,8 @@ import CountUp from "react-countup";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { FaBriefcase, FaClock, FaTrophy } from "react-icons/fa";
-import { text } from "stream/consumers";
+
 import { ImUsers } from "react-icons/im";
-import { section } from "framer-motion/client";
 
 const states = [
   {
